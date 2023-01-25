@@ -1,0 +1,2 @@
+displayName = View Occlusion
+author = Dark Assassin
